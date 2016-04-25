@@ -2,7 +2,6 @@
 # vi: set ft=ruby :
 
 
-
 $gitlab_install = <<GITLAB_INSTALL
 set -xv
 sudo yum install curl policycoreutils openssh-server openssh-clients
